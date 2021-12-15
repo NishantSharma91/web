@@ -1,0 +1,2 @@
+hi hi file is for sonar 
+Password = Manager@2222
